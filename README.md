@@ -278,22 +278,12 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 引き出し（ひきだし） drawer  
 送る（おくる） to send (a thing); to dispatch (uv, t)  
 贈る（おくる） to send (a gift) (uv, t)  
-柔らかい（やわらかい） soft (ia)  
-https://www.renshuu.org/grammar/473/%e3%81%a0%e3%81%91  
-{Embed}  
-https://www.renshuu.org/grammar/473/%e3%81%a0%e3%81%91  
-renshuu.org - cute Japanese studying that's built around you  
-https://images-ext-1.discordapp.net/external/soyuR-7LbWnZhu7GB-w7fkgKHqEzNzRiEmTkyGeL-aU/https/www.renshuu.org/img/feature.png  
+[柔らかい（やわらかい）](https://www.renshuu.org/grammar/473/%e3%81%a0%e3%81%91) soft (ia)  
 苦い（にがい）bitter (ia)  
 参る（まいる） to go; to come; to be annoyed (uv, i)  
 偶に（たまに） occasionally (adv)  
 植える（うえる） to plant (ruv, t)  
-特急（とっきゅう） 特快車票  
-https://www.jreast.co.jp/multi/en/ticket/types.html  
-{Embed}  
-https://www.jreast.co.jp/multi/en/ticket/types.html  
-Types of Tickets | Ticketing | JR-EAST  
-JR-EAST: Types of Tickets  
+[特急（とっきゅう）](https://www.jreast.co.jp/multi/en/ticket/types.html) 特快車票  
 行う（おこなう） to perform (uv, t)  
 海岸（かいがん） coast  
 お祝い（おいわい） congratulations (noun)  
