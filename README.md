@@ -128,7 +128,9 @@
 ![Attachments](
 https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/normal_6-1-e1599289633459.png?ex=65b51624&is=65a2a124&hm=3f21d3928dc56ca76bf101c1f999085cb43055df912ddcec72332eb69ebfa89&)  
 字引（じびき） dictionary  
-> [字典有兩種：「辞書（辭典）」，以及「字引（字典）」，兩者基本上同義。不過一般的字典、辭典是指「辞書」。而「字引」則有點類似説文解字的那種（逐字解析）。](https://www.sigure.tw/learn-japanese/vocabulary/n5/12-noun-stationery.php)
+> [!TIP]
+> [字典有兩種](https://www.sigure.tw/learn-japanese/vocabulary/n5/12-noun-stationery.php)：「辞書（辭典）」，以及「字引（字典）」，兩者基本上同義。不過一般的字典、辭典是指「辞書」。而「字引」則有點類似説文解字的那種（逐字解析）。
+
 閉まる（しまる） to close (uv, i)  
 閉める（しめる） to close (ruv, t)  
 締める（しめる） to fasten (ruv, t)  
