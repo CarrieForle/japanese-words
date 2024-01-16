@@ -1,4 +1,4 @@
-# Japanese Words 日本語の単語
+# Japanese Words 日本語の単語 {#top}
 
 年上（としうえ） older  
 先（さき） before  
@@ -426,15 +426,15 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 恋（こい） (romantic ) love  
 用心（ようじん） care  
 大人しい（おとなしい） gentle; mild; obedient (ia)  
-編む（あむ） to [knit](https://dictionary.cambridge.org/dictionary/english/knit) (uv,t )  
+編む（あむ） to [knit](https://dictionary.cambridge.org/dictionary/english/knit) (uv, t)  
 就職（しゅうしょく）  
 長所（しょうしょ） 長處  
 短所（たんしょ） 短處  
 日程（にってい） schedule  
 今後（こんご） from now on (adv)  
 [とも (particle)](https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%82%82-tomo-meaning/)  
-所謂（いわゆる） the so-called; 所謂的 (pre-noun adj)  
-印刷（いんさつ） printing (suru, v)  
+所謂（いわゆる） the so-called; 所謂的 (pre-noun adj) {#lol}  
+印刷（いんさつ） printing (suru, v) [lol](#lol)  
 レインコート raincoat  
 一方（いっぽう） [一方面; 雖然](https://www.renshuu.org/grammar/310); [increasing tendency](https://zhuanlan.zhihu.com/p/393924597)  
 説（せつ） theory; [doctrine](https://dictionary.cambridge.org/dictionary/english/doctrine)  
@@ -459,3 +459,52 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 コック cook; chef (noun)  
 大半（たいはん） majority; mostly (adv, noun)  
 半島（はんとう） Korea; [peninsula](https://dictionary.cambridge.org/dictionary/english/peninsula)  
+待合室（まちあいしつ） waiting room  
+故郷（ふるさと） hometown  
+偶々（たまたま） occasionally (adv)  
+破産（はさん） (suru, i)  
+同僚（どうりょう） coworker  
+形容動詞（けいようどうし） na-adjective  
+温い（ぬるい、ぬくい） [lukewarm](https://dictionary.cambridge.org/dictionary/english/lukewarm); mild (ia)  
+経度（けいど） longitude  
+症状（しょうじょう）  
+マスター master (suru, t)  
+ダイアグラム diagram  
+どっと bursting out (laughter); flooding in; suddenly (adv)  
+限度（げんど） limit  
+額（がく） (picture) frame; sum  
+輸送（ゆそう） (suru, t)  
+雑巾（ぞうきん） 抹布  
+ざっと roughly; briefly (adv)  
+のろのろ slowly (suru, adv (と particle))  
+偉大（いだい） magnificent (na)  
+巣（す） nest  
+統計（とうけい） (suru, t)  
+この頃（このごろ） nowadays; recently (adv)  
+頃（ごろ） (approximate) time; about (adv, suffix)  
+死亡（しぼう） (suru, i)  
+脂肪（しぼう）  
+志望（しぼう） (suru, t)  
+南北（なんぼく） south and north; 🇰🇷 & 🇰🇵  
+景色（けしき）  
+原理（げんり）  
+解放（かいほう）  
+ダイヤモンド diamond  
+溶岩（ようがん） lava  
+態度（たいど）  
+協議（きょうぎ） (suru, t)  
+競技（きょうぎ） (suru)  
+通勤（つうきん） (suru, i)  
+大使館（たいしかん）  
+違いない（ちがいない） sure; for certain (expression, ia)  
+信用（しんよう） confidence (suru, t); credit  
+尊敬（そんけい） respect (suru, t)  
+日の入り（ひのいり） sunset  
+日の出（ひので） sunrise  
+渋滞（じゅうたい） 塞車 (suru, i)  
+ロッカー [locker](https://dictionary.cambridge.org/dictionary/english/locker)  
+本来（ほんらい） (noun, adv)  
+しゃっくり [hiccup](https://dictionary.cambridge.org/dictionary/english/hiccup)  
+下旬（げじゅん） 下旬(月的第21天後)  
+
+[Back to top](#top)
