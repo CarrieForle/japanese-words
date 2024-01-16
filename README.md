@@ -358,7 +358,7 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 計（けい） plan (suffix)  
 経験（けいけん） (suru, t)  
 投票（とうひょう） (suru, i)  
-珠、玉、[球](https://discord.com/channels/855243137697710130/1064834911644680222/1196731657324089424)、弾（たま） ball; sphere; bullet;  bead; egg; coin  
+珠、玉、球、弾（たま） ball; sphere; bullet;  bead; egg; coin  
 グランド grand; large  
 当てはまる（あてはまる） to be applicable (of standards, lesson, ideas, etc)  
 莫大（ばくだい） vast; huge (na)  
@@ -433,8 +433,8 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 日程（にってい） schedule  
 今後（こんご） from now on (adv)  
 [とも (particle)](https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%82%82-tomo-meaning/)  
-所謂（いわゆる） the so-called; 所謂的 (pre-noun adj) {#lol}  
-印刷（いんさつ） printing (suru, v) [lol](#lol)  
+所謂（いわゆる） the so-called; 所謂的 (pre-noun adj)  
+印刷（いんさつ） printing (suru, v)  
 レインコート raincoat  
 一方（いっぽう） [一方面; 雖然](https://www.renshuu.org/grammar/310); [increasing tendency](https://zhuanlan.zhihu.com/p/393924597)  
 説（せつ） theory; [doctrine](https://dictionary.cambridge.org/dictionary/english/doctrine)  
@@ -453,7 +453,7 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 診断（しんだん）  
 人物（じんぶつ）  
 プラス plus; addition; plus sign  
-[球（きゅう） sphere; globe; ball](https://discord.com/channels/855243137697710130/1064834911644680222/1196404832622362675)  
+球（きゅう） sphere; globe; ball  
 候補（こほ）  
 萎む（しぼむ） to wither; to [wilt](https://dictionary.cambridge.org/dictionary/english/wilt) (uv, i)  
 コック cook; chef (noun)  
