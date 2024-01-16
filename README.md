@@ -505,5 +505,6 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 本来（ほんらい） (noun, adv)  
 しゃっくり [hiccup](https://dictionary.cambridge.org/dictionary/english/hiccup)  
 下旬（げじゅん） 下旬(月的第21天後)  
+連れる（つれる） to be accompanied by (ruv, t)
 
 [Back to top](#japanese-words-日本語の単語)
