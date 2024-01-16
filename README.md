@@ -249,7 +249,7 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 構う（かまう） to mind (uv)  
 足る（たる） to be enough (uv, i)  
 少し（すこし） a small amount; a moment (adv)  
-少ない（すくない） a little (adj)  
+少ない（すくない） scarce; seldom (ia)  
 爪（つめ） nail; claw  
 触る（さわる） to touch (uv, it)  
 触れる（ふれる） to touch (ruv, i); to touch with (ruv, t)  
