@@ -17,13 +17,12 @@
 浴びる（あびる） to take (shower) (ruv, t)  
 池（いけ） pond  
 痛い（いたい） painful (ia)  
-五日（いつか） 5 days; the 5th day of the month  
 入口（いりぐち） entrance  
 入れる（いれる） to put in (ruv, t)  
 入る（はいる） to enter (uv, i)  
 出口（でぐち） exit  
 出る（でる） to leave (ruv, i)  
-出す（だす） to leave (uv, t)  
+出す（だす） to take out; to leave (uv, t)  
 [出かける（でかける）](https://www.facebook.com/photo/?fbid=10153096269646392) to leave (ruv, i)  
 後（あと） after (time); behind; later (noun)  
 [後ろ（うしろ）](https://ja.hinative.com/questions/4072942) back; behind (noun)  
