@@ -1,4 +1,4 @@
-# Japanese Words 日本語の単語 {#top}
+# Japanese Words 日本語の単語
 
 年上（としうえ） older  
 先（さき） before  
@@ -507,4 +507,4 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 しゃっくり [hiccup](https://dictionary.cambridge.org/dictionary/english/hiccup)  
 下旬（げじゅん） 下旬(月的第21天後)  
 
-[Back to top](#top)
+[Back to top](##japanese-words-日本語の単語)
