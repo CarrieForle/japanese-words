@@ -556,5 +556,6 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 矛盾（むじゅん） (suru, i)  
 どういう what kind of; what (prefix)  
 愈々（いよいよ） more and more; finally (adv)  
+倒れる（たおれる） to collapse; to fall (over) (ruv, i)  
 
 ### [Back to top](#japanese-words-日本語の単語)
