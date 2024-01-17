@@ -60,7 +60,7 @@
 見える（みえる） to be visible (ruv, i)  
 聞こえる（きこえる） to be audible (ruv, i)  
 得る（える） to get; to earn (ruv, t)  
-寝坊（ねぼう） oversleeping  
+寝坊（ねぼう） oversleeping (na, suru, i)  
 有り得る（ありえる） to be possible (ruv, i)  
 返事（へんじ） reply; response  
 空港（くうこう） airport  
