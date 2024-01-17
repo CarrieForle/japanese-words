@@ -1,5 +1,7 @@
 # Japanese Words 日本語の単語
 
+### [Go to bottom](#back-to-top)
+
 年上（としうえ） older  
 先（さき） before  
 予約（よやく） reservation  
@@ -521,7 +523,7 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 内容（ないよう）  
 予感（よかん） [hunch](https://dictionary.cambridge.org/dictionary/english/hunch) (suru, t)  
 [~に決まっている](https://www.sigure.tw/learn-japanese/grammar/n3/80.php) definitely  
-[週一回 ... every week, month, year etc (grammar)](https://hinative.com/questions/2700759)  
+[週一回（しゅういっかい） ... every week, month, year etc (grammar)](https://hinative.com/questions/2700759)  
 王（おう）  
 帝（みかど） emperor  
 場合（ばあい） case; occasion  
@@ -539,5 +541,12 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 参加（さんか） (suru, i)  
 当たり前（あたりまえ） obvious; the norm; natural (noun, na)  
 [当たる（あたる）](https://jisho.org/search/%E5%BD%93%E3%81%9F%E3%82%8B) to strike (uv, i)  
+起きる（おきる） to get up; to wake up; to occur (usu. of unfavourable incidents) (ruv, i)  
+化粧（けしょう） make-up; cosmetics (suru, it)  
+飛び切り（とびきり） best; exceptionally (adv, noun)  
+示す（しめす） to demonstrate; to show (uv, t)  
+表現（ひょうげん） expression; description (suru, t)  
+[ように](https://www.renshuu.org/grammar/175) in order to; please ...; as was said (grammar)  
 
-[Back to top](#japanese-words-日本語の単語)
+
+### [Back to top](#japanese-words-日本語の単語)
