@@ -513,5 +513,6 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 数（かず） number; amount; several (noun, prefix)  
 済む（すむ） to finish; to be completed (uv, i)  
 住む、棲む（すむ） to reside; to inhabit (uv, i)  
+探す（さがす） to search for (uv, t)  
 
 [Back to top](#japanese-words-日本語の単語)
