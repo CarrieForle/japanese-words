@@ -47,6 +47,7 @@
 重い（おもい） heavy (ia)  
 降りる（おりる） to get down (ruv)  
 かける to hang up (e.g. a coat, a picture on the wall); to put on (e.g. blanket); to wear (e.g. glasses) (ruv, t)  
+欠ける（かける） to be missing; to chip; to be chipped (ruv, i)  
 調べる（しらべる） to investigate (ruv, t)  
 取る（とる） to take; to pick up (uv, t)  
 週末（しゅうまつ） weekend  
@@ -442,6 +443,8 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 食料品（しょくりょうひん） [foodstuff](https://dictionary.cambridge.org/dictionary/english/foodstuff)  
 [用意（ようい）](https://jisho.org/search/%E7%94%A8%E6%84%8F%20%23sentences) getting ready; preparation; provision (suru, t)  
 蒔く、播く（まく） to [sow](https://dictionary.cambridge.org/dictionary/english/sow); to plant; to seed (uv, t)  
+巻く（まく） 捲 (uv, t)  
+撒く（まく） to [sprinkle](https://dictionary.cambridge.org/dictionary/english/sprinkle); to scatter (uv, t)  
 防止（ぼうし） (suru, t)  
 チーズ cheese  
 お宅（おたく） your house; your husband; your family; your organization (honorific)  
@@ -514,6 +517,27 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 済む（すむ） to finish; to be completed (uv, i)  
 住む、棲む（すむ） to reside; to inhabit (uv, i)  
 探す（さがす） to search for (uv, t)  
-腕（うで） arm; skills
+腕（うで） arm; skills  
+内容（ないよう）  
+予感（よかん） [hunch](https://dictionary.cambridge.org/dictionary/english/hunch) (suru, t)  
+[~に決まっている](https://www.sigure.tw/learn-japanese/grammar/n3/80.php) definitely  
+[週一回 ... every week, month, year etc (grammar)](https://hinative.com/questions/2700759)  
+王（おう）  
+帝（みかど） emperor  
+場合（ばあい） case; occasion  
+直後（ちょくご） immediately following (adv)  
+直ちに（ただちに） immediately; right away (adv)  
+治る（なおる） to get better; to recover; to heal (ruv, i)  
+化石（かせき） fossil  
+欠席（けっせき） absence (suru, i)  
+揃う（そろう） to make a fullset; to be complete; to be satisified; to assemble (uv, i)
+それが well, actually...; that (expression)  
+招く（まねく） 招待; to invite  
+立場（たちば） position; situation  
+振る（ふる） to wave; to shake; to sprinkle; to throw (dice)​ (uv, t)  
+通う（かよう） to commute (uv, i)  
+参加（さんか） (suru, i)  
+当たり前（あたりまえ） obvious; the norm; natural (noun, na)  
+[当たる（あたる）](https://jisho.org/search/%E5%BD%93%E3%81%9F%E3%82%8B) to strike (uv, i)  
 
 [Back to top](#japanese-words-日本語の単語)
