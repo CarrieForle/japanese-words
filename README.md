@@ -234,7 +234,7 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 始まる（はじまる） to start (uv, i)  
 始める（はじめる） to start (ruv, t)  
 始め（はじめ） begining   
-初めて（はじめて）  for the first time (adv); 只有...才  
+初めて（はじめて） for the first time (adv); 只有...才  
 二十歳（はたち） 20 years old  
 二十日（はつか） 20 days  
 張る（はる） to stick; to paste (uv, t)  
@@ -508,6 +508,7 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 連れる（つれる） to be accompanied by (ruv, t)  
 [それで](https://www.renshuu.org/grammar/570) ...so (particle)  
 こそ (particle) [\[1\]](https://www.renshuu.org/grammar/318) [\[2\]](https://www.renshuu.org/grammar/643) [\[3\]](https://www.renshuu.org/grammar/556)  
-穏やか（おだやか） gentle; calm; moderate (na)
+穏やか（おだやか） gentle; calm; moderate (na)  
+付き合う（つきあう） to associate with; to go out with (uv, i)  
 
 [Back to top](#japanese-words-日本語の単語)
