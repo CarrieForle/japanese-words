@@ -57,7 +57,7 @@
 上る（のぼる） to ascend (as a natural process, e.g. the Sun) (uv, i)  
 荷物（にもつ） baggage  
 晴れる（はれる） to be sunny (ruv, i)  
-お陰（おかげ） thanks to; with the help of; 歸功於  
+[お陰（おかげ）](https://www.renshuu.org/grammar/312) thanks to; with the help of; 歸功於 (grammar, noun)  
 周り（まわり） surroundings  
 うるさい noisy; loud; annoying (ia)  
 見える（みえる） to be visible (ruv, i)  
@@ -547,6 +547,13 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 示す（しめす） to demonstrate; to show (uv, t)  
 表現（ひょうげん） expression; description (suru, t)  
 [ように](https://www.renshuu.org/grammar/175) in order to; please ...; as was said (grammar)  
-
+そして and; and then; finally (conj)  
+注ぐ（そそぐ） to pour (into); to water; to shed (tears) (uv, t)  
+[お役に立てるよう頑張ります](https://cityworks.jp/?p=14551)（おやくにたてるようがんばります） 我會盡我所能 (expression)  
+手伝う（てつだう） to help (uv, t)  
+伝える（つたえる） to convey; to report; to transmit; to teach (ruv, t)  
+相手（あいて） companion; partner; opponent  
+矛盾（むじゅん） (suru, i)  
+どういう what kind of; what (prefix)  
 
 ### [Back to top](#japanese-words-日本語の単語)
