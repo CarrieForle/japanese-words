@@ -127,8 +127,7 @@
 塩（しお） salt  
 自転車（じてんしゃ） bicycle  
 自動車（じどうしゃ） automobile  
-![Attachments](
-https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/normal_6-1-e1599289633459.png?ex=65b51624&is=65a2a124&hm=3f21d3928dc56ca76bf101c1f999085cb43055df912ddcec72332eb69ebfa89&)  
+![Attachments](https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/normal_6-1-e1599289633459.png?ex=65b51624&is=65a2a124&hm=3f21d3928dc56ca76bf101c1f999085cb43055df912ddcec72332eb69ebfa89&)  
 字引（じびき） dictionary  
 > [!TIP]
 > [字典有兩種](https://www.sigure.tw/learn-japanese/vocabulary/n5/12-noun-stationery.php)：「辞書（辭典）」，以及「字引（字典）」，兩者基本上同義。不過一般的字典、辭典是指「辞書」。而「字引」則有點類似説文解字的那種（逐字解析）。
@@ -508,7 +507,9 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 渋滞（じゅうたい） 塞車 (suru, i)  
 ロッカー [locker](https://dictionary.cambridge.org/dictionary/english/locker)  
 本来（ほんらい） (noun, adv)  
-しゃっくり [hiccup](https://dictionary.cambridge.org/dictionary/english/hiccup)  
+しゃっくり [hiccup](https://dictionary.cambridge.org/dictionary/english/hiccup) (suru, i)  
+上旬 （じょうじゅん） 上旬(月的1\~10天)  
+中旬（ちゅうじゅん） 中旬(月的11\~20天)  
 下旬（げじゅん） 下旬(月的第21天後)  
 連れる（つれる） to be accompanied by (ruv, t)  
 [それで](https://www.renshuu.org/grammar/570) ...so (particle)  
@@ -540,7 +541,7 @@ https://cdn.discordapp.com/attachments/1064834911644680222/1071440411459076146/n
 通う（かよう） to commute (uv, i)  
 参加（さんか） (suru, i)  
 当たり前（あたりまえ） obvious; the norm; natural (noun, na)  
-[当たる（あたる）](https://jisho.org/search/%E5%BD%93%E3%81%9F%E3%82%8B) to strike (uv, i)  
+[当たる（あたる）](https://jisho.org/search/%E5%BD%93%E3%81%9F%E3%82%8B) to strike; to touch; to apply to (uv, i)  
 起きる（おきる） to get up; to wake up; to occur (usu. of unfavourable incidents) (ruv, i)  
 化粧（けしょう） make-up; cosmetics (suru, it)  
 飛び切り（とびきり） best; exceptionally (adv, noun)  
