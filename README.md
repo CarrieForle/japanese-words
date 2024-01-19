@@ -96,7 +96,8 @@
 牛乳（ぎゅうにゅう） milk  
 薬（くすり） medicine  
 果物（くだもの） fruit  
-暗い（くらい） dark (ia)  
+暗い（くらい） dark; depressed; unlikely (ia)  
+[くらい](https://www.renshuu.org/grammar/224) approximately; to the extent; at least (grammar)  
 今朝（けさ） this morning  
 消す（けす） to erase; to turn off; to extinguish (uv, t)  
 来月（らいげつ） next month  
@@ -480,7 +481,8 @@
 雑巾（ぞうきん） 抹布  
 ざっと roughly; briefly (adv)  
 のろのろ slowly (suru, adv (と particle))  
-偉大（いだい） magnificent (na)  
+偉大（いだい） great; magnificent (na)  
+偉い（えらい） great; excellent; terrible (ia)
 巣（す） nest  
 統計（とうけい） (suru, t)  
 この頃（このごろ） nowadays; recently (adv)  
@@ -558,5 +560,18 @@
 どういう what kind of; what (prefix)  
 愈々（いよいよ） more and more; finally (adv)  
 倒れる（たおれる） to collapse; to fall (over) (ruv, i)  
+込む（こむ） to be crowded (uv, i); to be packed (uv, i); to be complex (uv, i); to do completely (suffix)  
+河豚（フグ）  
+隠す（かくす） to hide; to conceal (uv, t)  
+隠れる（かくれる） to hide; to conceal oneself; to disappear; to pass away (ruv, i)  
+忍ぶ（しのぶ） to conceal oneself (uv, i); to hide (uv, i); to endure (uv, t)  
+[ものか](https://www.renshuu.org/grammar/167) A is not true! (grammar)  
+[ものだから](https://www.renshuu.org/grammar/167) Because of A (strong sense) (grammar)  
+[もの](https://www.renshuu.org/grammar/545) Because of A (informal speech) (grammar)  
+[ものを](https://www.renshuu.org/grammar/451) Although A, (unforutnate result) b (grammar)  
+[ものの](https://www.renshuu.org/grammar/161) Although A... (grammar)  
+中々（なかなか） very (adv)  
+混、交ざる（まざる） to be mixed; to associate with; to join (uv, i)  
+混、交ぜる（まぜる） to mix; to associate with (ruv, t)  
 
 ### [Back to top](#japanese-words-日本語の単語)
