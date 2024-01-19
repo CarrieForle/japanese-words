@@ -149,7 +149,7 @@
 丈夫（じょうぶ） healthy (na)  
 醬油（しょうゆ） soy sauce  
 吸う（すう） to smoke; to breathe; to inhale (uv, t)  
-過ぎる（すぎる） to pass through; to pass by (ruv, t)  
+過ぎる（すぎる） to pass through; to pass by; to have expired; to have ended; to exceed (ruv, i)  
 すぐに immediately (adv)  
 少し（すこし）a little; a few; a bit (adv)  
 涼しい（すずしい） cool (ia)  
@@ -161,11 +161,11 @@
 セーター sweater  
 石鹸（せっけん） soap  
 背広（せびろ） suit (clothing)  
-洗濯（せんたく） laundry (noun, suru-verb)  
+洗濯（せんたく） laundry (suru)  
 連れ（つれ） 陪同  
 動く（うごく） to move (uv, i)  
 疲れる（つかれる） to get tired (ruv, i)  
-掃除（そうじ） (noun, suru-verb, t)  
+掃除（そうじ） (noun, suru, t)  
 大切（たいせつ） important (subjective) (na)  
 重要（じゅうよう） important (objective) (na)  
 たいてい mostly (na, adv, n)  
@@ -209,7 +209,7 @@
 無くなる（なくなる） to be lost (uv, i)  
 夏休み（なつやすみ） summer vacation  
 並ぶ（ならぶ） to line up (uv, i)  
-並べる（ならべる）to line up (ruv, t)  
+並べる（ならべる） to line up (ruv, t)  
 取る（とる） to take (uv, t)  
 撮る（とる） to take (a photo) (uv, t)  
 賑やか（にぎやか） busy; lively; noisy (na)  
@@ -223,7 +223,7 @@
 ～日 (にち） ~ days  
 庭（にわ） garden  
 鶏（にわとり） chicken  
-脱ぐ（ぬぐ） to take off (uv, t)  
+脱ぐ（ぬぐ） to take off (clothes) (uv, t)  
 拭う（ぬぐう） to wipe (uv, t)  
 ネクタイ necktie  
 飲み物（のみもの） drinks  
@@ -265,7 +265,7 @@
 昔（むかし） olden days (noun, adv)  
 握る（にぎる） to grip (uv, t)  
 支える（ささえる） to support (ruv, t)  
-お祭り（おまつり）祭典; 廟會  
+お祭り（おまつり） 祭典; 廟會  
 米（こめ） rice  
 港（みなと） harbor; port  
 船（ふぬ） ship  
@@ -282,7 +282,7 @@
 贈る（おくる） to send (a gift) (uv, t)  
 [柔らかい（やわらかい）](https://www.renshuu.org/grammar/473/%e3%81%a0%e3%81%91) soft (ia)  
 苦い（にがい）bitter (ia)  
-参る（まいる） to go; to come; to be annoyed (uv, i)  
+参る（まいる） to go (humble); to come (humble); to be annoyed (uv, i)  
 偶に（たまに） occasionally (adv)  
 植える（うえる） to plant (ruv, t)  
 [特急（とっきゅう）](https://www.jreast.co.jp/multi/en/ticket/types.html) 特快車票  
@@ -360,14 +360,14 @@
 計（けい） plan (suffix)  
 経験（けいけん） (suru, t)  
 投票（とうひょう） (suru, i)  
-珠、玉、球、弾（たま） ball; sphere; bullet;  bead; egg; coin  
+珠、玉、球、弾（たま） ball; sphere; bullet; bead; egg; coin  
 グランド grand; large  
 当てはまる（あてはまる） to be applicable (of standards, lesson, ideas, etc)  
 莫大（ばくだい） vast; huge (na)  
 火災（かさい）  
-避ける（さける） to avoid  (ruv, t)  
+避ける（さける） to avoid (ruv, t)  
 裂ける（さける） to split (ruv, i)  
-平均（へいきん）(suru)  
+平均（へいきん） (suru)  
 値（あたい） price; value; cost  
 それなのに despite that  
 相続（そうぞく） inheritance (suru, t)  
@@ -376,13 +376,13 @@
 大学院（だいがくいん） 研究所  
 並行（へいこう） going side-by-side; running concurrently (suru, i)  
 畑（はたけ） 農田  
-ぽっち little  
+ぽっち little (suffix) 
 皿（さら） plate  
 更に（さらに） furthermore (adv)  
 大勢（おおぜい） crowd of people  
 種（たね） seed; offspring  
 種類（しゅるい） variety; kind  
-種々（しゅじゅ） various  
+種々（しゅじゅ） various (na, adv, noun)  
 既に（すでに） already (adv)  
 生憎（あいにく） unfortunately (adv, na, noun)  
 相違（そうい） difference; variation (suru)  
@@ -421,12 +421,12 @@
 今週（こんしゅう）  
 光線（こうせん）  
 神経（しんけい）  
-一致（いっち） agreement  
+一致（いっち） agreement; union; correspondence (suru, i)  
 関東（かんとう） 關東  
 割る（わる） to devide (uv, t)  
 損害（そんがい） damage (suru)  
-恋（こい） (romantic ) love  
-用心（ようじん） care  
+恋（こい） (romantic) love  
+用心（ようじん） care  
 大人しい（おとなしい） gentle; mild; obedient (ia)  
 編む（あむ） to [knit](https://dictionary.cambridge.org/dictionary/english/knit) (uv, t)  
 就職（しゅうしょく）  
@@ -479,7 +479,7 @@
 額（がく） (picture) frame; sum  
 輸送（ゆそう） (suru, t)  
 雑巾（ぞうきん） 抹布  
-ざっと roughly; briefly (adv)  
+ざっと approximately; briefly (adv)  
 のろのろ slowly (suru, adv (と particle))  
 偉大（いだい） great; magnificent (na)  
 偉い（えらい） great; excellent; terrible (ia)
@@ -573,5 +573,7 @@
 中々（なかなか） very (adv)  
 混、交ざる（まざる） to be mixed; to associate with; to join (uv, i)  
 混、交ぜる（まぜる） to mix; to associate with (ruv, t)  
+幼い（おさない） very young; childish (ia)  
+伸びる（のびる） to stretch; to extend; to grow (of hair, height, grass, etc); to straighten out (ruv, i)  
 
 ### [Back to top](#japanese-words-日本語の単語)
