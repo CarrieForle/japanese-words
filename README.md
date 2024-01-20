@@ -34,6 +34,7 @@
 できる to be able to do (ruv, i)  
 呼ぶ（よぶ） to call (uv, t)  
 いくつ how many; how old (adv)  
+いくら how much (adv)  
 薄い (うすい） thin (ia)  
 生まれる（うまれる） to be born (ruv)  
 上着（うえぎ） coat; jacket; outerwear  
@@ -48,6 +49,7 @@
 覚える（おぼえる） to memorize (ruv, t)  
 重い（おもい） heavy (ia)  
 降りる（おりる） to get down (ruv)  
+下げる to hang; to suspend; to lower; to reduce; to demote (ruv, t)  
 かける to hang up (e.g. a coat, a picture on the wall); to put on (e.g. blanket); to wear (e.g. glasses) (ruv, t)  
 欠ける（かける） to be missing; to chip; to be chipped (ruv, i)  
 調べる（しらべる） to investigate (ruv, t)  
@@ -70,6 +72,7 @@
 空気（くうき） air; atmosphere  
 空（から） emptiness (noun)  
 空（そら） sky  
+型（かた） type; model (suffix)  
 形（かたち） shape; form  
 立つ（たつ） to stand (uv, i)  
 証（あかし） proof  
@@ -210,7 +213,7 @@
 夏休み（なつやすみ） summer vacation  
 並ぶ（ならぶ） to line up (uv, i)  
 並べる（ならべる） to line up (ruv, t)  
-取る（とる） to take (uv, t)  
+取る（とる） to take; to grab; to pass; to give; to get (uv, t)  
 撮る（とる） to take (a photo) (uv, t)  
 賑やか（にぎやか） busy; lively; noisy (na)  
 東（ひがし） east  
@@ -280,11 +283,10 @@
 引き出し（ひきだし） drawer  
 送る（おくる） to send (a thing); to dispatch (uv, t)  
 贈る（おくる） to send (a gift) (uv, t)  
-[柔らかい（やわらかい）](https://www.renshuu.org/grammar/473/%e3%81%a0%e3%81%91) soft (ia)  
-苦い（にがい）bitter (ia)  
+柔らかい（やわらかい） soft (ia)  
+苦い（にがい） bitter (ia)  
 参る（まいる） to go (humble); to come (humble); to be annoyed (uv, i)  
-偶に（たまに） occasionally (adv)  
-植える（うえる） to plant (ruv, t)  
+偶に（たまに） occasionally (adv)    
 [特急（とっきゅう）](https://www.jreast.co.jp/multi/en/ticket/types.html) 特快車票  
 行う（おこなう） to perform (uv, t)  
 海岸（かいがん） coast  
@@ -327,7 +329,7 @@
 文句（もんく） complaint  
 押さえる（おさえる） 壓制 (ruv, t)  
 抑える（おさえる） to restrain (uv. t)  
-たっぷり ample (adv (と particle), noun, na)  
+たっぷり amply; abundantly; plentifully (adv (と particle), suffix, na)  
 はす、ハス lotus  
 成長（せいちょう） growth  
 赤ん坊（あかんぼう）、赤ちゃん（あかちゃん） infant  
@@ -377,7 +379,6 @@
 並行（へいこう） going side-by-side; running concurrently (suru, i)  
 畑（はたけ） 農田  
 ぽっち little (suffix) 
-皿（さら） plate  
 更に（さらに） furthermore (adv)  
 大勢（おおぜい） crowd of people  
 種（たね） seed; offspring  
@@ -395,6 +396,7 @@
 調子（ちょうし） tune; key  
 朝食（ちょうし） breakfast  
 長子（ちょうし） 長子  
+長女（ちょうじょ） 長女
 湯のみ、湯吞み、湯吞、湯飲み、湯飲（ゆのみ） teacup​  
 知事（ちじ） 省長; 統治者; 知事  
 一家（いっか） a family  
@@ -417,7 +419,7 @@
 本部（ほんぶ） headquarter  
 語る（かたる） (ruv, t)  
 サイレン [siren](https://dictionary.cambridge.org/dictionary/english/siren)  
-確実（かくじつ） certain; sure (na)  
+確実（かくじつ） certain; sure; 確實 (na)  
 今週（こんしゅう）  
 光線（こうせん）  
 神経（しんけい）  
@@ -437,14 +439,17 @@
 [とも (particle)](https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%82%82-tomo-meaning/)  
 所謂（いわゆる） the so-called; 所謂的 (pre-noun adj)  
 印刷（いんさつ） printing (suru, v)  
+コート coat; court  
+テニスコート tennis court  
 レインコート raincoat  
 一方（いっぽう） [一方面; 雖然](https://www.renshuu.org/grammar/310); [increasing tendency](https://zhuanlan.zhihu.com/p/393924597)  
 説（せつ） theory; [doctrine](https://dictionary.cambridge.org/dictionary/english/doctrine)  
 通行（つうこう） passage; common usage (suru, i)  
-直接（ちょくせつ） direct; immediate (adv, na)  
+直接（ちょくせつ） direct; immediate; 直接 (adv, na)  
 食料品（しょくりょうひん） [foodstuff](https://dictionary.cambridge.org/dictionary/english/foodstuff)  
 [用意（ようい）](https://jisho.org/search/%E7%94%A8%E6%84%8F%20%23sentences) getting ready; preparation; provision (suru, t)  
 蒔く、播く（まく） to [sow](https://dictionary.cambridge.org/dictionary/english/sow); to plant; to seed (uv, t)  
+植える（うえる） to plant (ruv, t)  
 巻く（まく） 捲 (uv, t)  
 撒く（まく） to [sprinkle](https://dictionary.cambridge.org/dictionary/english/sprinkle); to scatter (uv, t)  
 防止（ぼうし） (suru, t)  
@@ -575,5 +580,18 @@
 混、交ぜる（まぜる） to mix; to associate with (ruv, t)  
 幼い（おさない） very young; childish (ia)  
 伸びる（のびる） to stretch; to extend; to grow (of hair, height, grass, etc); to straighten out (ruv, i)  
+興味（きょうみ） 興趣  
+ベンチ bench
+石油（せきゆ）  
+農産物（のうさんぶつ） 農產品  
+[だって](https://www.renshuu.org/grammar/577) ...so; even; not only, but also; Any-A (grammar)  
+今度（こんど） this time; now; next time (adv);
+葬式（そうしき） funeral  
+葬る（ほうむる） to bury (uv, i)  
+埋める（うめる） to bury; to compensate for​; to bridge (a difference, a gap) (ruv, t)  
+修理（しゅうり） (suru, t)  
+低下（ていか） fall; decline; lowering; [deterioration](https://dictionary.cambridge.org/dictionary/english/deterioration) (suru, i)  
+そっくり all (adv); altogether (adv); entirely (adv); completely (adv); exactly like (na); just like (na)  
+銘々（めいめい） each; individual (adv, noun)  
 
 ### [Back to top](#japanese-words-日本語の単語)
