@@ -611,7 +611,7 @@
 テープ tape  
 味方（みかた） friend (noun); ally (noun); supporting (suru)  
 感じ（かんじ） feeling; sense; impression  
-犯罪（はんざい） crime; offense  
+犯罪（はんざい） crime; offense  
 質（しつ） quality; value (suffix)  
 問（しつもん） question (suru, it)  
 その内（そのうち） someday; sooner or later; among them (adv, expression)  
@@ -624,6 +624,6 @@
 マラソン marathon  
 囲む（かこむ） to surround; to encircle; to enclose (uv, t)  
 列（れつ） row  
-正式（せいしき） official (na, noun)  
+正式（せいしき） official (na, noun)  
 
 ### [Back to top](#japanese-words-日本語の単語)
