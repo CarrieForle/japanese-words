@@ -626,4 +626,4 @@
 列（れつ） row  
 正式（せいしき） official (na, noun)  
 
-### [Back to top](#japanese-words-日本語の単語)
+### [Back to top](#go-to-bottom)
