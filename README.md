@@ -182,6 +182,9 @@
 卵（たまご） egg  
 だんだん gradually (adv)  
 近い（ちかい） near (ia)  
+地上（ちじょう）  
+地下（ちか）  
+見つかる（みつかる） to be found (ruv, i)  
 地下鉄（ちかてつ） subway  
 ちょうど exactly; as if (adv)  
 ちょっと a bit (adv)  
@@ -209,10 +212,12 @@
 鳴く（なく） to make sound (of an animal) (uv, i)  
 泣く（なく） to cry (uv, i)  
 無くす（なくす） to lose (sth) (uv, t)  
+失う（うしなう） to lose (sth); to miss (opportunity) (uv, t)  
 無くなる（なくなる） to be lost (uv, i)  
 夏休み（なつやすみ） summer vacation  
 並ぶ（ならぶ） to line up (uv, i)  
 並べる（ならべる） to line up (ruv, t)  
+取れる（とれる） to come off; to go away; to disappear (ruv, i)  
 取る（とる） to take; to grab; to pass; to give; to get (uv, t)  
 撮る（とる） to take (a photo) (uv, t)  
 賑やか（にぎやか） busy; lively; noisy (na)  
@@ -263,6 +268,7 @@
 短い（みじかい） short (ia)  
 [終わる（おわる）](https://www.renshuu.org/grammar/10/%e3%81%8a%e3%82%8f%e3%82%8b) to end (uv, i);  
 決める（きめる） to decide (ruv, t)  
+決して（けっして） (not) ever (adv) (with negative sentence)  
 暮れ（くれ） sunset (noun, adv)  
 兎（うさぎ） rabbit  
 昔（むかし） olden days (noun, adv)  
@@ -508,7 +514,7 @@
 大使館（たいしかん）  
 違いない（ちがいない） sure; for certain (expression, ia)  
 信用（しんよう） confidence (suru, t); credit  
-尊敬（そんけい） respect (suru, t)  
+尊敬（そんけい）、尊重（そんちょう） respect (suru, t)  
 日の入り（ひのいり） sunset  
 日の出（ひので） sunrise  
 渋滞（じゅうたい） 塞車 (suru, i)  
@@ -537,6 +543,7 @@
 場合（ばあい） case; occasion  
 直後（ちょくご） immediately following (adv)  
 直ちに（ただちに） immediately; right away (adv)  
+直ぐ（すぐ） immediately; right away; soon; easily (adv)
 治る（なおる） to get better; to recover; to heal (ruv, i)  
 化石（かせき） fossil  
 欠席（けっせき） absence (suru, i)  
@@ -585,7 +592,8 @@
 石油（せきゆ）  
 農産物（のうさんぶつ） 農產品  
 [だって](https://www.renshuu.org/grammar/577) ...so; even; not only, but also; Any-A (grammar)  
-今度（こんど） this time; now; next time (adv);
+今度（こんど） this time; now; next time (adv)  
+今回（こんかい） this time; now (adv)  
 葬式（そうしき） funeral  
 葬る（ほうむる） to bury (uv, i)  
 埋める（うめる） to bury; to compensate for​; to bridge (a difference, a gap) (ruv, t)  
@@ -593,5 +601,29 @@
 低下（ていか） fall; decline; lowering; [deterioration](https://dictionary.cambridge.org/dictionary/english/deterioration) (suru, i)  
 そっくり all (adv); altogether (adv); entirely (adv); completely (adv); exactly like (na); just like (na)  
 銘々（めいめい） each; individual (adv, noun)  
+常に（つねに） always (adv)  
+未来（みらい）  
+任せる（まかせる） to entrust (to someone) (ruv, i)  
+会話（かいわ） conversation (suru, i)  
+雄（おす） male (animal, plant)  
+責任（せきにん）  
+マーケット market  
+テープ tape  
+味方（みかた） friend (noun); ally (noun); supporting (suru)  
+感じ（かんじ） feeling; sense; impression  
+犯罪（はんざい） crime; offense  
+質（しつ） quality; value (suffix)  
+問（しつもん） question (suru, it)  
+その内（そのうち） someday; sooner or later; among them (adv, expression)  
+ステーキ steak  
+コード code  
+論文（ろんぶん）  
+都心（としん） city centre  
+陸（りく、おか） land  
+床（ゆか） floor  
+マラソン marathon  
+囲む（かこむ） to surround; to encircle; to enclose (uv, t)  
+列（れつ） row  
+正式（せいしき） official (na, noun)  
 
 ### [Back to top](#japanese-words-日本語の単語)
