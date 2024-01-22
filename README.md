@@ -613,7 +613,7 @@
 感じ（かんじ） feeling; sense; impression  
 犯罪（はんざい） crime; offense  
 質（しつ） quality; value (suffix)  
-問（しつもん） question (suru, it)  
+質問（しつもん） question (suru, it)  
 その内（そのうち） someday; sooner or later; among them (adv, expression)  
 ステーキ steak  
 コード code  
