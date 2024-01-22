@@ -114,7 +114,6 @@
 今年（ことし）（こんねん） this year  
 言葉（ことば） language; dialect  
 困る（こまる） to be troubled (uv, i)  
-ころ around that time (adv)  
 桜（さくら） cherry blossom  
 咲く（さく） to blossom (uv, i)  
 作文（さくぶん） 作文  
@@ -147,13 +146,11 @@
 ごみ、ゴミ trash  
 飛行（ひこゔ） flight  
 すごい wonderful; terrible (ia)  
-ごろ (approximate) time; around; about; toward​ (noun, adv) (used at suffix)  
 上手（じょうず） skillful (na)  
 丈夫（じょうぶ） healthy (na)  
 醬油（しょうゆ） soy sauce  
 吸う（すう） to smoke; to breathe; to inhale (uv, t)  
 過ぎる（すぎる） to pass through; to pass by; to have expired; to have ended; to exceed (ruv, i)  
-すぐに immediately (adv)  
 少し（すこし）a little; a few; a bit (adv)  
 涼しい（すずしい） cool (ia)  
 明かり（あかり） light  
@@ -335,7 +332,7 @@
 文句（もんく） complaint  
 押さえる（おさえる） 壓制 (ruv, t)  
 抑える（おさえる） to restrain (uv. t)  
-たっぷり amply; abundantly; plentifully (adv (と particle), suffix, na)  
+たっぷり amply; abundantly; plentifully (adv (と particle), suffix, na)  
 はす、ハス lotus  
 成長（せいちょう） growth  
 赤ん坊（あかんぼう）、赤ちゃん（あかちゃん） infant  
@@ -393,7 +390,7 @@
 既に（すでに） already (adv)  
 生憎（あいにく） unfortunately (adv, na, noun)  
 相違（そうい） difference; variation (suru)  
-錆びる（さびる） to rust(ruv, i)  
+錆びる（さびる） to rust (ruv, i)  
 ハンサム handsome (na)  
 頂上（ちょうじょう） summit; top  
 ガス gas  
@@ -423,7 +420,7 @@
 土地（とち）  
 基準（きじゅん） standard  
 本部（ほんぶ） headquarter  
-語る（かたる） (ruv, t)  
+語る（かたる） to talk about; to recite (uv, t)  
 サイレン [siren](https://dictionary.cambridge.org/dictionary/english/siren)  
 確実（かくじつ） certain; sure; 確實 (na)  
 今週（こんしゅう）  
@@ -469,7 +466,7 @@
 人物（じんぶつ）  
 プラス plus; addition; plus sign  
 球（きゅう） sphere; globe; ball  
-候補（こほ）  
+候補（こうほ）  
 萎む（しぼむ） to wither; to [wilt](https://dictionary.cambridge.org/dictionary/english/wilt) (uv, i)  
 コック cook; chef (noun)  
 大半（たいはん） majority; mostly (adv, noun)  
@@ -497,7 +494,7 @@
 巣（す） nest  
 統計（とうけい） (suru, t)  
 この頃（このごろ） nowadays; recently (adv)  
-頃（ごろ） (approximate) time; about (adv, suffix)  
+頃（ころ、ごろ） (approximate) time; about (adv, suffix)  
 死亡（しぼう） (suru, i)  
 脂肪（しぼう）  
 志望（しぼう） (suru, t)  
@@ -525,7 +522,7 @@
 中旬（ちゅうじゅん） 中旬(月的11\~20天)  
 下旬（げじゅん） 下旬(月的第21天後)  
 連れる（つれる） to be accompanied by (ruv, t)  
-[それで](https://www.renshuu.org/grammar/570) ...so (particle)  
+[それで](https://www.renshuu.org/grammar/570) ...so; and then (particle)  
 こそ (particle) [\[1\]](https://www.renshuu.org/grammar/318) [\[2\]](https://www.renshuu.org/grammar/643) [\[3\]](https://www.renshuu.org/grammar/556)  
 穏やか（おだやか） gentle; calm; moderate (na)  
 付き合う（つきあう） to associate with; to go out with (uv, i)  
@@ -591,7 +588,7 @@
 ベンチ bench
 石油（せきゆ）  
 農産物（のうさんぶつ） 農產品  
-[だって](https://www.renshuu.org/grammar/577) ...so; even; not only, but also; Any-A (grammar)  
+[だって](https://www.renshuu.org/grammar/577) because; even; but; not only, but also; Any-A (grammar)  
 今度（こんど） this time; now; next time (adv)  
 今回（こんかい） this time; now (adv)  
 葬式（そうしき） funeral  
@@ -625,5 +622,6 @@
 囲む（かこむ） to surround; to encircle; to enclose (uv, t)  
 列（れつ） row  
 正式（せいしき） official (na, noun)  
+効く（きく） to be effective; to function well (uv, i)  
 
 ### [Back to top](#go-to-bottom)
