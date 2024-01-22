@@ -168,7 +168,7 @@
 掃除（そうじ） (noun, suru, t)  
 大切（たいせつ） important (subjective) (na)  
 重要（じゅうよう） important (objective) (na)  
-たいてい mostly (na, adv, n)  
+たいてい mostly; generally; probably (na, adv, n)  
 台所（だいどころ） kitchen  
 建物（たてもの） building  
 建てる（たてる） to build (ruv, t)  
@@ -487,7 +487,8 @@
 額（がく） (picture) frame; sum  
 輸送（ゆそう） (suru, t)  
 雑巾（ぞうきん） 抹布  
-ざっと approximately; briefly (adv)  
+ざっと more or less; approximately; briefly (adv)  
+ちゃんと [diligently](https://dictionary.cambridge.org/dictionary/english/diligently); seriously; [earnestly](https://dictionary.cambridge.org/dictionary/english/earnestly); steadily; properly (adv)
 のろのろ slowly (suru, adv (と particle))  
 偉大（いだい） great; magnificent (na)  
 偉い（えらい） great; excellent; terrible (ia)
