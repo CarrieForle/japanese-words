@@ -344,6 +344,7 @@
 刻む（きざむ） to carve; to cut; to grind (uv, t)  
 堪らない（らまらない） intolerable (expression, ia)  
 抱える（かかえる） to embrace (ruv, t)  
+抱く（いだく） to embrace (uv, t)  
 騒ぐ（さわぐ）、騒つく（ざわつく） to be noisy (uv, i)  
 土（つち） soil  
 凍る（こおる） to freeze; to be frozen (uv, i)  
@@ -593,8 +594,8 @@
 今度（こんど） this time; now; next time (adv)  
 今回（こんかい） this time; now (adv)  
 葬式（そうしき） funeral  
-葬る（ほうむる） to bury (uv, i)  
-埋める（うめる） to bury; to compensate for​; to bridge (a difference, a gap) (ruv, t)  
+葬る（ほうむる） to bury (uv, i)  
+埋める（うめる） to bury; to compensate for; to bridge (a difference, a gap) (ruv, t)  
 修理（しゅうり） (suru, t)  
 低下（ていか） fall; decline; lowering; [deterioration](https://dictionary.cambridge.org/dictionary/english/deterioration) (suru, i)  
 そっくり all (adv); altogether (adv); entirely (adv); completely (adv); exactly like (na); just like (na)  
@@ -610,6 +611,7 @@
 味方（みかた） friend (noun); ally (noun); supporting (suru)  
 感じ（かんじ） feeling; sense; impression  
 犯罪（はんざい） crime; offense  
+犯人（はんにん） criminal; offender  
 質（しつ） quality; value (suffix)  
 質問（しつもん） question (suru, it)  
 その内（そのうち） someday; sooner or later; among them (adv, expression)  
@@ -624,5 +626,38 @@
 列（れつ） row  
 正式（せいしき） official (na, noun)  
 効く（きく） to be effective; to function well (uv, i)  
+這う（はう） to crawl; to creep; to [slither](https://dictionary.cambridge.org/dictionary/english/wriggle) (uv, i)  
+何時までも（いつまでも） forever; eternally; indefinitely (adv)  
+マフラー [muffler](https://dictionary.cambridge.org/dictionary/english/muffler); scarf  
+夫婦（ふうふ、めおと） husband and wife (noun); pair (for husband and wife) (prefix)  
+[逸れる（それる）](https://jisho.org/search/%E3%81%9D%E3%82%8C%E3%82%8B) to turn away; 改變方向 (ruv, i)  
+何時も（いつも） always; never (with negative verbs) (adv)  
+事態（じたい）  
+加減（かげん） degree (suffix); extent (suffix); health condition (noun); addition and substraction (suru, t)  
+級（きゅう） (school) grade; year; class; rank; level
+ショップ shop  
+成績（せいせき） 成績; results  
+登山（とざん） mountain climbing (suru, i)  
+下山（げざん） (suru, i)  
+警備（けいび） defense; guard; policing; security (suru, t)  
+スポーツ sports  
+会館（かいかん） 會館  
+図書（としょ）  
+容器（ようき）  
+困難（こんなん） (na)  
+手帳（てちょう） notebook; memo pad; diary  
+悲劇（ひげき） tragedy; tragic drama  
+茹でる（ゆでる、うでる） to boil (something in hot water)  
+煮る（にる） 煮; to boil; to [stew](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/stew) (ruv, t)  
+ご馳走様（ごちそうさま） 感謝招待 (expression)  
+バランス balance (suru)  
+程度（ていど） (adv)  
+[そこで](https://www.renshuu.org/grammar/572) so; accordingly; then; [thereupon](https://dictionary.cambridge.org/dictionary/english/thereupon); therefore (grammar, conjunction)  
+記憶（きおく） (suru, t)  
+気温（きおん） 氣溫  
+傷（きず） injury; wound; [bruise](https://dictionary.cambridge.org/dictionary/english/bruise)  
+そっと 靜靜地; 悄悄地 (adv)  
+向かう（むかう） to face; to go towards (uv, i)  
+確り（しっかり） 確實的 (adv (と particle), suru)  
 
 ### [Back to top](#go-to-bottom)
