@@ -1,4 +1,3 @@
-# Japanese Words 日本語の単語
 
 ### [Go to bottom](#back-to-top)
 
@@ -49,7 +48,7 @@
 覚える（おぼえる） to memorize (ruv, t)  
 重い（おもい） heavy (ia)  
 降りる（おりる） to get down (ruv)  
-下げる to hang; to suspend; to lower; to reduce; to demote (ruv, t)  
+下げる（さげる） to hang; to suspend; to lower; to reduce; to demote (ruv, t)  
 かける to hang up (e.g. a coat, a picture on the wall); to put on (e.g. blanket); to wear (e.g. glasses) (ruv, t)  
 欠ける（かける） to be missing; to chip; to be chipped (ruv, i)  
 調べる（しらべる） to investigate (ruv, t)  
@@ -84,10 +83,11 @@
 肩（かた） shoulder  
 かばん bag; basket  
 花瓶（かびん） flower vase  
-被る（かぶる） 戴上; to be covered with (e.g. snow, dust) (uv,t )  
+被る（かぶる） 戴上; to be covered with (e.g. snow, dust) (uv, t)  
 辛い（からい） spicy (ia)  
 つらい painful; bitter; heart-breaking; difficult (emotionally)​ (ia)  
 借りる（かりる） to borrow; to have a loan (ruv, t)  
+貸す（かす） to lend; to loan (uv, t)  
 背（せ） back; height  
 引く（ひく） to pull; to attract (uv, t)  
 弾く（ひく） to play (a stringed or keyboard instrument) (uv, t)  
@@ -275,10 +275,6 @@
 米（こめ） rice  
 港（みなと） harbor; port  
 船（ふぬ） ship  
-湯（ゆ） hot water; hot bath; hot spring  
-糸（いと） string; thread  
-縄（なわ） rope  
-飛ぶ（とぶ） to fly; to soar (uv, i)  
 跳ぶ（とぶ） to jump; to leap (uv, i)  
 絹（きぬ） silk  
 布団（ふとん） 棉被; duvet  
@@ -331,7 +327,7 @@
 役所（やくしょ） government office  
 文句（もんく） complaint  
 押さえる（おさえる） 壓制 (ruv, t)  
-抑える（おさえる） to restrain (uv. t)  
+抑える（おさえる） to restrain (uv, t)  
 たっぷり amply; abundantly; plentifully (adv (と particle), suffix, na)  
 はす、ハス lotus  
 成長（せいちょう） growth  
@@ -624,7 +620,7 @@
 マラソン marathon  
 囲む（かこむ） to surround; to encircle; to enclose (uv, t)  
 列（れつ） row  
-正式（せいしき） official (na, noun)  
+正式（せいしき） 正式的 (na, noun)  
 効く（きく） to be effective; to function well (uv, i)  
 這う（はう） to crawl; to creep; to [slither](https://dictionary.cambridge.org/dictionary/english/wriggle) (uv, i)  
 何時までも（いつまでも） forever; eternally; indefinitely (adv)  
@@ -659,5 +655,16 @@
 そっと 靜靜地; 悄悄地 (adv)  
 向かう（むかう） to face; to go towards (uv, i)  
 確り（しっかり） 確實的 (adv (と particle), suru)  
+本の（ほんの） mere; only; slight (pre-noun adj)  
+~きる/~きれる to be completely  
+罪（つみ） (noun)  
+無知（むち） ignorance (na)  
+見つける（みつける） to discover (ruv, t)  
+幅（はば） width; [breadth](https://dictionary.cambridge.org/dictionary/english/breadth); gap; range  
+黙る（だまる） to be silent (ruv, i)  
+字（じ）  
+身分（みぶん） (social) status; position; rank  
+そう言えば Now that you mention it. (expression)  
+殆ど（ほとんど） almost; nearly; practically; hardly; barely (adv)  
 
 ### [Back to top](#go-to-bottom)
