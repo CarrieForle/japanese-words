@@ -666,5 +666,7 @@
 身分（みぶん） (social) status; position; rank  
 そう言えば Now that you mention it. (expression)  
 殆ど（ほとんど） almost; nearly; practically; hardly; barely (adv)  
+含む（ふくむ） to contain; to include; to hold in the mouth (uv, t)  
+落とす（おとす） to drop; to lose; to clean off (dirt, makeup etc) (uv, t)  
 
 ### [Back to top](#go-to-bottom)
