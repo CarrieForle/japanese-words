@@ -1,4 +1,3 @@
-
 ### [Go to bottom](#back-to-top)
 
 年上（としうえ） older  
@@ -670,6 +669,6 @@
 落とす（おとす） to drop; to lose; to clean off (dirt, makeup etc) (uv, t)  
 都合（つごう） circumstance (adv); to arrange (suru)  
 断る（ことわる） to refuse (uv, t)  
-
+試す（たます） to try (uv, t)  
 
 ### [Back to top](#go-to-bottom)
