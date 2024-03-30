@@ -670,5 +670,6 @@
 都合（つごう） circumstance (adv); to arrange (suru)  
 断る（ことわる） to refuse (uv, t)  
 試す（たます） to try (uv, t)  
+しかも furthermore (adv)  
 
 ### [Back to top](#go-to-bottom)
