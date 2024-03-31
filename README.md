@@ -292,7 +292,7 @@
 案内（あんあい） guidance (suru)  
 輸出（ゆしゅつ） export (suru)  
 輸入（ゆにゅう） import (suru, t)  
-見学（けんがく） study by observation; 見習 (suru)  
+見学（けんがく） study by observation (suru)  
 生産（せいさん） production; manufacture (suru, t)  
 相談（そうだん） consultation; discussion (suru, t)  
 拝見（はいけん） seeing; looking at (suru, t)  
