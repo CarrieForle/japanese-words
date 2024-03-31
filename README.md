@@ -316,7 +316,7 @@
 打合せ（うちあわせ） advance meeting  
 謎（なぞ） puzzle; riddle  
 皮肉（ひにく） irony; satire  
-呆れる（あきれる) to be amazed (ruv, i)  
+呆れる（あきれる）to be amazed (ruv, i)  
 切手（きって） stamps  
 真似る（まねる） to micmic (ruv, i)  
 隣（となり） adjacent (noun)  
