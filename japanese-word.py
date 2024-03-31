@@ -75,7 +75,7 @@ def Run(mode: str, file: str):
     file_content = filter((lambda s: not (
             any(s.startswith(ch) for ch in '#!>') or s.strip() == '')),
             file_content)
-    
+
     queries = []
     
     for query in file_content:
@@ -96,6 +96,8 @@ def Run(mode: str, file: str):
         pronunciation = pronunciation.strip()
           
         queries.append((word, pronunciation, description))
+    
+    print(f'Loaded {len(queries)} queries.\n')
     
     is_try_again = True
     
