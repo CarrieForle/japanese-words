@@ -672,5 +672,8 @@
 試す（たます） to try (uv, t)  
 しかも furthermore (adv)  
 なおかつ besides; furthermore (adv)  
+企み（たくらみ） 企圖  
+拐かす（かどわかす） to kidnap (uv, t)  
+
 
 ### [Back to top](#go-to-bottom)
