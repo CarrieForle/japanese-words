@@ -442,7 +442,7 @@
 テニスコート tennis court  
 レインコート raincoat  
 一方（いっぽう） [一方面; 雖然](https://www.renshuu.org/grammar/310); [increasing tendency](https://zhuanlan.zhihu.com/p/393924597)  
-説（せつ） theory; [doctrine](https://dictionary.cambridge.org/dictionary/english/doctrine)  
+説（せつ） theory; [doctrine](https://dictionary.cambridge.org/dictionary/english/doctrine) (suffix)  
 通行（つうこう） passage; common usage (suru, i)  
 直接（ちょくせつ） direct; immediate; 直接 (adv, na)  
 食料品（しょくりょうひん） [foodstuff](https://dictionary.cambridge.org/dictionary/english/foodstuff)  
