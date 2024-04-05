@@ -1,6 +1,6 @@
 ### [Go to bottom](#back-to-top)
 
-年上（としうえ） older  
+年上（としうえ） older (noun)  
 先（さき） before  
 予約（よやく） reservation  
 上げる（あげる） to raise (ruv, t)  
@@ -295,7 +295,7 @@
 見学（けんがく） study by observation (suru)  
 生産（せいさん） production; manufacture (suru, t)  
 相談（そうだん） consultation; discussion (suru, t)  
-拝見（はいけん） seeing; looking at (suru, t)  
+拝見（はいけん） seeing; looking at (humble) (suru, t)  
 翻訳（ほんやく） translation (suru, t)  
 通訳（つうやく） interpretation (i.e. oral translation) (suru, t)  
 復習（ふくしゅう） review (of learning material) (suru, t)  
@@ -345,7 +345,7 @@
 凍る（こおる） to freeze; to be frozen (uv, i)  
 森（もり） forest  
 林（はやし） forest; wood; woods  
-温まる（あたたまる）（ぬくまる） to get warm (uv, i)  
+温まる（あたたまる、ぬくまる） to get warm (uv, i)  
 踏む（ふむ） 踏出; 踩踏 (uv, t)  
 跡（あと） trace  
 粉（こな） powder; flour; dust  
@@ -606,7 +606,7 @@
 味方（みかた） friend (noun); ally (noun); supporting (suru)  
 感じ（かんじ） feeling; sense; impression  
 犯罪（はんざい） crime; offense  
-犯人（はんにん） criminal; offender  
+犯人（はんにん） 犯人; offender  
 質（しつ） quality; value (suffix)  
 質問（しつもん） question (suru, it)  
 その内（そのうち） someday; sooner or later; among them (adv, expression)  
@@ -664,7 +664,7 @@
 字（じ）  
 身分（みぶん） (social) status; position; rank  
 そう言えば Now that you mention it. (expression)  
-殆ど（ほとんど） almost; nearly; practically; hardly; barely (adv)  
+殆ど（ほとんど） 幾乎; 幾乎不 (adv)  
 含む（ふくむ） to contain; to include; to hold in the mouth (uv, t)  
 落とす（おとす） to drop; to lose; to clean off (dirt, makeup etc) (uv, t)  
 都合（つごう） circumstance (adv); to arrange (suru)  
