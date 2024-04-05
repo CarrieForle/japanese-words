@@ -1,3 +1,3 @@
 #! /bin/bash
 
-python japanese-word.py $@
+python src/japanese-word.py $@
